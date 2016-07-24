@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TripAdvisor1</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="near_me_now">Near Me Now</string>
+    <string name="mark_favorite">Mark as Favorite</string>
+</resources>
